@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "simple-drf-pagination"
-version = "0.1.2"
+version = "0.1.3"
 description = "Zero-boilerplate pagination helpers for Django REST Framework"
 authors = [{ name="EKRAMUL ISLAM SHADIK" }]
 dependencies = ["djangorestframework>=3.14"]
